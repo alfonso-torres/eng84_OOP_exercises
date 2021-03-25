@@ -35,4 +35,4 @@ Q, Z -> 10
 ````  
 *Results*:
 
-The code related of this exercise is in the file `Fizzbuzz.py`.
+The code related of this exercise is in the file `Scrabble_word_calculator.py`.
