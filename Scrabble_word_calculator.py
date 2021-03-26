@@ -39,7 +39,7 @@ class Scrabble_calculator:
 word = input("Please enter the word that you would like to get the score (NOT DIGITS): ")
 print("Processing...")
 
-# Let's create an object of the Fizzbuzz Class
+# Let's create an object of the Scrabble_calculator Class
 object_scrabble = Scrabble_calculator()
 
 # Call the function that will get the score

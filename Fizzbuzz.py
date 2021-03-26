@@ -32,5 +32,5 @@ class Fizzbuzz:
 # Let's create an object of the Fizzbuzz Class
 object_fizzbuzz = Fizzbuzz()
 
-# Call the function that will print the results
+# Call the function that will print the corrects answers
 object_fizzbuzz.fizzbuzz_prints()
